@@ -44,7 +44,7 @@ By completing this project, you will have gained valuable insights into the perf
 
 
 
-## [Proyect 2:Title: ETL for Spotify Personal Account - Most Listened Songs Databa ]()
+## [Proyect 2:Title: ETL for Spotify Personal Account - Most Listened Songs Databa ](https://github.com/Winsdex/JM_Portafolio.html/blob/main/sopfity.jpg)
 
 Project Description:
 This project aims to create an Extract, Transform, Load (ETL) process for your personal Spotify account. The goal is to build a database that stores information about the songs you listen to the most. By extracting your listening history from Spotify, transforming the data into a structured format, and loading it into a database, you can gain insights into your music preferences and trends.
