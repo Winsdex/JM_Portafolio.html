@@ -63,3 +63,4 @@ ETL Automation: Develop a script or workflow to automate the ETL process, ensuri
 Data Analysis (Optional): Use SQL queries or data visualization tools to analyze your listening patterns, identify favorite artists or genres, and track changes in your music preferences over time.
 
 By completing this project, you will have created a personalized database of your most-listened songs on Spotify, allowing you to gain valuable insights into your music preferences and habits. This ETL process can be a fun way to explore your musical journey and discover trends in your music consumption.
+![alt text](sopfity.jpg)
