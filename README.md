@@ -51,9 +51,9 @@ This project aims to create an Extract, Transform, Load (ETL) process for your p
 Objective:
 The primary objective of this project is to automate the collection and organization of your most-listened songs on Spotify. The ETL process will involve extracting your listening history, transforming it into a suitable database schema, and loading the data for analysis.
 
-- [Data Extraction](https://github.com/Winsdex/JM_Portafolio.html/blob/main/ExtracSpofity.py): Retrieve your listening history data from your Spotify account using Spotify's API or other authorized methods.
+- [Data Extraction:](https://github.com/Winsdex/JM_Portafolio.html/blob/main/ExtracSpofity.py) Retrieve your listening history data from your Spotify account using Spotify's API or other authorized methods.
 
-- [Data Transformation](https://github.com/Winsdex/JM_Portafolio.html/blob/main/SpofityDrag.py): Clean and structure the data to create a database schema that includes attributes like song title, artist, play count, and date of listening.
+- [Data Transformation:](https://github.com/Winsdex/JM_Portafolio.html/blob/main/SpofityDrag.py) Clean and structure the data to create a database schema that includes attributes like song title, artist, play count, and date of listening.
 
 - Database Creation: Set up a database (e.g., SQLite, MySQL) to store the transformed data.
 
